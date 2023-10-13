@@ -214,5 +214,7 @@ const App = () => {
     </SafeAreaView>
   );
 };
-
+/* 
+  Will add additional 10 more components and pictures with descripts.
+  */
 export default App;
